@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.exe
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.deps.json
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\refint\ExemploFundamentos.dll
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Thiago Bohonos\Cursos\DIO\.NET\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll
